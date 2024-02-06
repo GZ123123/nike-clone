@@ -1,0 +1,27 @@
+{
+  "name": "project-n",
+  "private": true,
+  "type": "module",
+  "version": "0.0.0",
+  "author": {
+    "name": "Sang Nguyen"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --open",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "3.10.1",
+    "vue": "3.4.15",
+    "vue-router": "4.2.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/i18n": "^8.0.2",
+    "@nuxtjs/sitemap": "^5.1.0",
+    "@nuxtjs/tailwindcss": "^6.11.3",
+    "nuxt-svgo": "^4.0.0"
+  }
+}
