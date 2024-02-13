@@ -1,0 +1,247 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "New & Featured",
+      "url": "/new-featured",
+      "subMenu": [
+        {
+          "id": 1,
+          "name": "New & Featured",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Shop Icons",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "New For Men",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "New For Women",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Men",
+      "url": "/men",
+      "subMenu": [
+        {
+          "id": 1,
+          "name": "Featured",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Shoe",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Clothing",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Shop By Sport",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Women",
+      "url": "/women",
+      "subMenu": [
+        {
+          "id": 1,
+          "name": "Featured 2",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Shoe 2",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Clothing 2",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "New For Women",
+          "items": [
+            { "id": 1, "name": "New Arrivals", "url": "/new-arrivals" },
+            { "id": 2, "name": "Latest Shoes", "url": "/latest-shoes" },
+            { "id": 3, "name": "Latest Clothing", "url": "/latest-clothing" },
+            {
+              "id": 4,
+              "name": "Customise with Nike By You",
+              "url": "/customise"
+            },
+            { "id": 5, "name": "Bestsellers", "url": "/best-sellers" },
+            { "id": 6, "name": "Member Exclusive", "url": "/membership" },
+            { "id": 7, "name": "National Team Kits", "url": "/national" },
+            { "id": 8, "name": "Shop All New", "url": "/shop-all-new" }
+          ]
+        }
+      ]
+    },
+    { "id": 4, "name": "Kids", "url": "/kids" },
+    { "id": 5, "name": "Sale", "url": "/sale" },
+    { "id": 6, "name": "Collections", "url": "/collections" },
+    { "id": 7, "name": "Customise", "url": "/customise" },
+    { "id": 8, "name": "SNKRS", "url": "/snkrs" }
+  ]
+  
+}

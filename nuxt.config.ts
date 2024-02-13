@@ -13,4 +13,8 @@ export default defineNuxtConfig({
     ["@nuxtjs/i18n", i18n],
     ["nuxt-svgo", svgo],
   ],
+  ignore: ["**/*.test.*", "**/*.spec.*"],
+  imports: {
+    dirs: ["composables"],
+  },
 });

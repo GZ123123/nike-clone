@@ -1,7 +1,6 @@
 <template>
   <div>
-    layout default
-    <slot />
+    <svg width="60" height="60" class="bg-gray-700"></svg>
   </div>
 </template>
 

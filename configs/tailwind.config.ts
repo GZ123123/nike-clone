@@ -2,7 +2,7 @@
 import type { ModuleOptions } from "@nuxtjs/tailwindcss";
 
 export const tailwindcss: Partial<ModuleOptions> = {
-  cssPath: ["@/assets/css/tailwind.css", { injectPosition: "last" }],
+  cssPath: ["@/assets/css/main.css", { injectPosition: "last" }],
   configPath: "@/configs/tailwind.config.ts",
   exposeConfig: false,
   exposeLevel: 2,
@@ -21,7 +21,11 @@ export default {
     `./error.vue`,
   ],
   theme: {
-    extend: {},
+    extend: {
+      spacing: {
+        15: "3.75rem",
+      },
+    },
   },
   plugins: [],
 };
